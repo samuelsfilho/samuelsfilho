@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samukcass
 - 👀 I’m interested in ...Ser Programador
-- 🌱 I’m currently learning ...CSS e JavaScript
+- 🌱 I’m currently learning ...Front End and Back end (full stack) Curso: Dev em Dobro
 - 💞️ I’m looking to collaborate on ...Trabalhos e Desenvolvimento
 - 📫 How to reach me ...samuelcassimirof@gmail.com
 - 😄 Pronouns: ...
