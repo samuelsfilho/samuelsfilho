@@ -16,7 +16,7 @@
  
 ### Pra saber mais sobre mim segue ai!
 
- Email: samuelcassimirof@gmail.com
+ 
  
 <div> 
   
