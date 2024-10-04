@@ -14,13 +14,12 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra saber mais sobre mim segue ai!
  
 <div> 
   
   <a href="https://www.instagram.com/mukinha_bjj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
- <img align="center" alt="samuelcassimirof@gmail.com" height="30" width="40" src="https://en.wikipedia.org/wiki/History_of_Gmail#/media/File:Gmail_icon_(2020).svg">
-</div>
+ Email: samuelcassimirof@gmail.com
   <a href="https://www.linkedin.com/in/samuel-silva-7894962bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
