@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Samuel Silva 😁
 
  <div>
-   <a href="https://github.com/samukcass">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samukcass&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samukcass&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/samuelsfilho">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsfilho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsfilho&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
