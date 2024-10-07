@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do samukcass 😁
+## Bem-vindo(a) ao perfil do Samuel Silva 😁
 
  <div>
    <a href="https://github.com/samukcass">
