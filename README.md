@@ -1,5 +1,12 @@
 ## Bem-vindo(a) ao meu perfil Samuel Silva Filho 😁
 
+Sou um desenvolvedor front-end iniciante apaixonado por construir sites bonitos e responsivos.
+
+Atualmente aprendendo HTML, CSS, JavaScript e Type Script no Curso da Escola Dev em Dobro reconhecido pelo MEC.
+
+Estou animado para melhorar minhas habilidades e contribuir para projetos de código aberto!
+
+
  <div>
    <a href="https://github.com/samuelsfilho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsfilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
