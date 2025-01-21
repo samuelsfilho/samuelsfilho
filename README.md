@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor front-end iniciante apaixonado por construir sites bonitos e responsivos.
 
-Atualmente aprendendo HTML, CSS, JavaScript e Type Script no Curso da Escola Dev em Dobro reconhecido pelo MEC.
+Atualmente aprendendo HTML, CSS, JavaScript  no Curso da Escola Dev em Dobro reconhecido pelo MEC.
 
 Estou animado para melhorar minhas habilidades e contribuir para projetos de código aberto!
 
