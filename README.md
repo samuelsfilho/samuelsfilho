@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil Samuel Silva Filho 😁
 
-Sou um desenvolvedor front-end iniciante apaixonado por construir sites bonitos e responsivos.
+Sou um desenvolvedor front-end iniciante apaixonado por construir sites bonitos e responsivos, cursando para Full Stack.
 
-Atualmente aprendendo CSS e JavaScript  no Curso da Escola Dev em Dobro reconhecido pelo MEC.
+Atualmente desenvolvendo projetos pessoais com HTML e CSS, aprendendo JavaScript e React no Curso da Escola Dev em Dobro reconhecido pelo MEC.
 
 Estou animado para melhorar minhas habilidades e contribuir para projetos de código aberto!
 
